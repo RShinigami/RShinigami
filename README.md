@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RShinigami
+- 👋 Hi, I’m @Rayn Dabbabi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript/angular
 - 📫 How to reach me rayen.dabbabi@etudiant-fst.utm.tn

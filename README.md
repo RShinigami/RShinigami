@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rayn Dabbabi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript/angular
-- 📫 How to reach me rayen.dabbabi@etudiant-fst.utm.tn
+- 📫 How to reach me dabbabirayen56@gmail.com
 
 <!---
 RShinigami/RShinigami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rayn Dabbabi
+- 👋 Hi, I’m @Rayen Dabbabi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript/angular
 - 📫 How to reach me dabbabirayen56@gmail.com
